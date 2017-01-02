@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Ocomon"
+categories: ocomon update
+link-telegram: https://telegram.me/ocomon
+---
+Colaboração: Leandro z3ta
